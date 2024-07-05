@@ -1,4 +1,4 @@
-## MySkills : Azure, IAM, Servicenow, Troubleshooting.
+## MySkills : Azure, IAM, Servicenow, Troubleshooting
 
 ---
 
