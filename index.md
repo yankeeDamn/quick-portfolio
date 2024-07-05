@@ -1,4 +1,4 @@
-## MySkills :  Identity Access Management & Integration ·RBAC Application Management & Deployment · Access Control & Security Policies · Troubleshooting & Issue Resolution, Vulnaribilty Management, Active Directory · Azure Active Directory, Monitoring Incident and Request Management. Technical Documentation & Reporting · Remote End-user Support & Training
+MySkills :  Identity Access Management & Integration , RBAC , Application Management & Deployment · Access Control & Security Policies · Troubleshooting & Issue Resolution, Vulnaribilty Management, Active Directory · Azure Active Directory, Monitoring Incident and Request Management. Technical Documentation & Reporting · Remote End-user Support & Training
 
 ## Tools : Azure , IAM tools, Nexthtink, Cyberark , Servicenow, Jira.
 
